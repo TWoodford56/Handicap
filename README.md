@@ -1,6 +1,6 @@
 # Handicap
 
-A command-line tool for calculating golf handicaps, written in plain Java against a MySQL course-ratings database.
+A command-line tool for calculating golf handicaps, written in Java against a MySQL course-ratings database.
 
 It supports two workflows:
 
